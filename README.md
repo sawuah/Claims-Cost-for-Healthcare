@@ -4,7 +4,7 @@
 This project analyzes healthcare claims to highlight the key cost drivers behind an insurance company's financial losses. By analyzing claim types, CPT and ICD codes, members and providers, this analysis identifies where spending is concentrated. Using Excel, SQL, and Tableau, the data was cleaned, aggregated, and transformed into interactive dashboards that show high cost claim types, code level cost drivers, and member and provider insights. These findings help stakeholders make informed data driven decisions about resource allocation and cost improvement.  
 
 
-## Business problem and questions: 
+## 📌 Business Problem & Key Questions
 A healthcare insurance company is rapidly losing money and wants to figure out why. The organization needs to understand healthcare spending across claim types, CPT and ICD codes, members, and providers. There is a lack of clarity that prevents data driven decision making and proper resource utilization. 
 
 #### Questions:
@@ -17,7 +17,7 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
 
 - **How do billed amounts compare to paid amounts?**
 
-## Methodology:
+## 🧭 Methodology
 ### Excel
 
 - **Imported** dataset into Excel to gain a general overview of trends, patterns, and data quality.
@@ -44,7 +44,7 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
   
 - **Designed a multi page dashboard** with built-in navigation, starting with a central homepage. 
 
-## Skills:
+## 🛠️ Skills & Tools
 
 Microsoft Excel: **pivot tables, conditional formatting, filtering**
 
@@ -52,7 +52,7 @@ SQL: **importing, aggregate function, joins, grouping**
 
 Tableau: **data visualization, calculated fields, interactive filters, multi-page navigation** 
 
-## Results and Business Recommendation
+## Results & Insights
 ### Most expensive claim types
 
 - Inpatient and Emergency are the two most expensive claim types. 
@@ -109,12 +109,12 @@ Tableau: **data visualization, calculated fields, interactive filters, multi-pag
 
 
 
-### Contact
+### 📬 Contact
 [Linkedin](www.linkedin.com/in/sandraawuah00) 
 
 Email: sandraawuah00@gmail.com
 
 [Tableau Public](https://public.tableau.com/app/profile/sandra.awuah/vizzes)
 
-#### Data From Analytic Builder
+####📁 Data: From Analytic Builder
 #### Icons From Flaticon
