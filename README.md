@@ -8,6 +8,7 @@ The number impact
 
 ## Business problem and questions: 
 A healthcare insurance company is rapidly losing money and wants to figure out why. The organization needs to understand healthcare spending across claim types, CPT and ICD codes, members, and providers. There is a lack of clarity that prevents data driven decision making and proper resource utilization. 
+
 Questions:
 Which claim types are the most expensive?
 Which CPT and ICD codes drive the highest spending?
@@ -16,8 +17,10 @@ How do billed amounts compare to paid amounts?
 
 ## Methodology:
 ### Excel
-Imported dataset into Excel to gain a general overview of trends, patterns, and data quality.. 
+Imported dataset into Excel to gain a general overview of trends, patterns, and data quality.
+
 Filtered data to identify missing values, inconsistencies, and outliers. 
+
 Created pivot tables to analyze total paid by claim type, icd code, cpt codes, and member.
 Applied conditional formatting to identify any abnormal logic such as cases where paid amounts are more than billed amounts. 
 ### SQL
