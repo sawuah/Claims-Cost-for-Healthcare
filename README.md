@@ -99,7 +99,7 @@ Tableau: **data visualization, calculated fields, interactive filters, multi-pag
 
 <img width="1356" height="757" alt="Screenshot 2026-03-24 222458" src="https://github.com/user-attachments/assets/120e1c82-c16d-46e7-ad8e-f62ff9d1fc7d" />
 <img width="1359" height="767" alt="Screenshot 2026-03-24 222550" src="https://github.com/user-attachments/assets/b8691a53-a0cf-4ba7-b14c-d47038d87fd5" />
-<img width="1364" height="771" alt="Screenshot 2026-03-24 222723" src="https://github.com/user-attachments/assets/b3f6544e-e434-421e-a1fe-b90c554130c5" />
+<img width="1364" height="770" alt="Screenshot 2026-03-24 223557" src="https://github.com/user-attachments/assets/92d0e351-aa33-4c2f-bb0b-5aec55807c10" />
 <img width="1364" height="771" alt="Screenshot 2026-03-24 222723" src="https://github.com/user-attachments/assets/4d1aa1a2-eda1-45aa-87d7-5cda7251fd4c" />
 
 
