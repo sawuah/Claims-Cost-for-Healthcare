@@ -112,5 +112,8 @@ Tableau: **data visualization, calculated fields, interactive filters, multi-pag
 
 
 ### Contact
+[Linkedin](www.linkedin.com/in/sandraawuah00) 
+Email: sandraawuah00@gmail.com
+[Tableau Public](https://public.tableau.com/app/profile/sandra.awuah/vizzes)
 
 ### Data From Analytic Builder
