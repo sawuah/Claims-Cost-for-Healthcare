@@ -30,7 +30,7 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
 
 ### SQL
 
-- **Imported**dataset in SQL using Import Wizard.
+- **Imported** dataset in SQL using Import Wizard.
 
 - **Cross checked** with Excel to make sure all records were present. Performed a **quick data check** to make sure there were no abnormalities. 
 
