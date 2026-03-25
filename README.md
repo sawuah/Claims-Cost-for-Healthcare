@@ -95,7 +95,7 @@ Tableau: **data visualization, calculated fields, interactive filters, multi-pag
 		
 #### Dashboards
 
-<img width="1366" height="754" alt="Screenshot 2026-03-25 013940" src="https://github.com/user-attachments/assets/8add7e7d-4c53-4334-bb9c-04add299deeb" />
+<img width="1356" height="759" alt="Screenshot 2026-03-25 131504" src="https://github.com/user-attachments/assets/61c64e58-123a-45a9-bfe1-bb6189f0b94d" />
 <img width="1359" height="767" alt="Screenshot 2026-03-24 222550" src="https://github.com/user-attachments/assets/b8691a53-a0cf-4ba7-b14c-d47038d87fd5" />
 <img width="1364" height="770" alt="Screenshot 2026-03-24 223557" src="https://github.com/user-attachments/assets/92d0e351-aa33-4c2f-bb0b-5aec55807c10" />
 <img width="1364" height="771" alt="Screenshot 2026-03-24 222723" src="https://github.com/user-attachments/assets/4d1aa1a2-eda1-45aa-87d7-5cda7251fd4c" />
