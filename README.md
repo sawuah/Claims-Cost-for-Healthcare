@@ -52,7 +52,7 @@ SQL: **importing, aggregate function, joins, grouping**
 
 Tableau: **data visualization, calculated fields, interactive filters, multi-page navigation** 
 
-## Results & Insights
+##📊 Results & Insights
 ### Most expensive claim types
 
 - Inpatient and Emergency are the two most expensive claim types. 
@@ -110,6 +110,7 @@ Tableau: **data visualization, calculated fields, interactive filters, multi-pag
 
 
 ### 📬 Contact
+
 [Linkedin](www.linkedin.com/in/sandraawuah00) 
 
 Email: sandraawuah00@gmail.com
@@ -117,4 +118,5 @@ Email: sandraawuah00@gmail.com
 [Tableau Public](https://public.tableau.com/app/profile/sandra.awuah/vizzes)
 
 ####📁 Data: From Analytic Builder
+
 #### Icons From Flaticon
