@@ -31,42 +31,71 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
 - Applied conditional formatting to identify any abnormal logic such as cases where paid amounts are more than billed amounts. 
 
 ### SQL
-Imported dataset in SQL using Import Wizard.
-Cross checked with Excel to make sure all records were present. Performed a quick data check to make sure there were no abnormalities. 
-Created analytical views summarizing (claim types, top CPT cost drivers, ICD cost drivers, member level insights, paid vs. billed comparisons, provider performance).  Included aggregated metrics: day, month, year, total paid, total billed, paid ratio, claim count
+
+- Imported dataset in SQL using Import Wizard.
+
+- Cross checked with Excel to make sure all records were present. Performed a quick data check to make sure there were no abnormalities. 
+
+- Created analytical views summarizing (claim types, top CPT cost drivers, ICD cost drivers, member level insights, paid vs. billed comparisons, provider performance).  Included aggregated metrics: day, month, year, total paid, total billed, paid ratio, claim count
+
 ### Tableau
-Created key KPIs to support paid vs. billed, code, member, and provider analysis.  
-Created visualizations including cost flow, code lookup tool, member price breakdown
-Designed a multi page dashboard with built-in navigation, starting with a central homepage. 
+
+- Created key KPIs to support paid vs. billed, code, member, and provider analysis.
+  
+- Created visualizations including cost flow, code lookup tool, member price breakdown
+  
+- Designed a multi page dashboard with built-in navigation, starting with a central homepage. 
 
 ## Skills:
+
 Microsoft Excel: pivot tables, conditional formatting, filtering
+
 SQL: importing, aggregate function, joins, grouping
+
 Tableau: data visualization, calculated fields, interactive filters, multi-page navigation
 
 ## Results and Business Recommendation
-Most expensive claim types
-Inpatient and Emergency are the two most expensive claim types. 
-Impatient = $1,092,456
-Emergency = $294,441
-Despite similar claim volume shares (around 20 percent), Impatient spending is nearly four times higher than Emergency. 
-Outpatient holds 23.39 percent of claims but only holds $129,053 of the total paid by the insurance company. 
-  Most expensive CPT and ICD codes
+###Most expensive claim types
+
+####Inpatient and Emergency are the two most expensive claim types. 
+
+###### Impatient = $1,092,456
+
+###### Emergency = $294,441
+
+###### Despite similar claim volume shares (around 20 percent), Impatient spending is nearly four times higher than Emergency. 
+
+###### Outpatient holds 23.39 percent of claims but only holds $129,053 of the total paid by the insurance company. 
+
+Most expensive CPT and ICD codes
+
 Top 10 most expensive CPT codes: 67890, 23456, 123, 12345, 45678, 99223, 56789, 54321, 34567, 567
+
 Top 10 most expensive ICD codes: A12.3, B20, B20.1, I10, B99.4, E11.65, A01.1, C34.91, E11.9, J45.909 
+
 Most expensive members
+
 Member ID: 6. 28, 32, 58, 82 
+
 Top 5 members account for 11.6 percent of the total amount paid. 
+
 Paid vs. Billed amounts
+
 The insurance company pays 75% of the billed amount
+
 By claim type:
+
 Paid ratio Emergency: 77.38%
+
 Paid ratio Impatient: 74.43%
+
 Paid ratio Outpatient: 86.84%
+
 Paid ratio Pharmacy: 87.78%
+
 Paid Ratio Lab: 91.46%
 		
-		
+### Deliverables	
 ### Contact
 
 ### Data From Analytic Builder
