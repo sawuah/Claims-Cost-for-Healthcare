@@ -20,7 +20,7 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
 ## 🧭 Methodology
 ### Excel
 
-- **Imported** dataset into Excel to gain a general overview of trends, patterns, and data quality.
+- **Imported**  dataset into Excel to gain a general overview of trends, patterns, and data quality.
 
 - **Filtered** data to identify missing values, inconsistencies, and outliers. 
 
