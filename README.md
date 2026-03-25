@@ -11,23 +11,24 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
 
 #### Questions:
 
-Which claim types are the most expensive?
+- Which claim types are the most expensive?
 
-Which CPT and ICD codes drive the highest spending?
+- Which CPT and ICD codes drive the highest spending?
 
-Which members account for the largest share of the total cost?
+- Which members account for the largest share of the total cost?
 
-How do billed amounts compare to paid amounts? 
+- How do billed amounts compare to paid amounts? 
 
 ## Methodology:
 ### Excel
-Imported dataset into Excel to gain a general overview of trends, patterns, and data quality.
 
-Filtered data to identify missing values, inconsistencies, and outliers. 
+- Imported dataset into Excel to gain a general overview of trends, patterns, and data quality.
 
-Created pivot tables to analyze total paid by claim type, icd code, cpt codes, and member.
+- Filtered data to identify missing values, inconsistencies, and outliers. 
 
-Applied conditional formatting to identify any abnormal logic such as cases where paid amounts are more than billed amounts. 
+- Created pivot tables to analyze total paid by claim type, icd code, cpt codes, and member.
+
+- Applied conditional formatting to identify any abnormal logic such as cases where paid amounts are more than billed amounts. 
 
 ### SQL
 Imported dataset in SQL using Import Wizard.
