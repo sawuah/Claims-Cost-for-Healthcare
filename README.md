@@ -9,7 +9,8 @@ The number impact
 ## Business problem and questions: 
 A healthcare insurance company is rapidly losing money and wants to figure out why. The organization needs to understand healthcare spending across claim types, CPT and ICD codes, members, and providers. There is a lack of clarity that prevents data driven decision making and proper resource utilization. 
 
-Questions:
+#### Questions:
+
 Which claim types are the most expensive?
 
 Which CPT and ICD codes drive the highest spending?
