@@ -32,23 +32,23 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
 
 ### SQL
 
-- Imported dataset in SQL using Import Wizard.
+- **Imported**dataset in SQL using Import Wizard.
 
-- Cross checked with Excel to make sure all records were present. Performed a quick data check to make sure there were no abnormalities. 
+- **Cross checked** with Excel to make sure all records were present. Performed a **quick data check** to make sure there were no abnormalities. 
 
-- Created analytical views summarizing (claim types, top CPT cost drivers, ICD cost drivers, member level insights, paid vs. billed comparisons, provider performance).  Included aggregated metrics: day, month, year, total paid, total billed, paid ratio, claim count
+- **Created analytical views summarizing** (claim types, top CPT cost drivers, ICD cost drivers, member level insights, paid vs. billed comparisons, provider performance).  **Included aggregated metrics:** day, month, year, total paid, total billed, paid ratio, claim count
 
 ### Tableau
 
-- Created key KPIs to support paid vs. billed, code, member, and provider analysis.
+- **Created key KPIs** to support paid vs. billed, code, member, and provider analysis.
   
-- Created visualizations including cost flow, code lookup tool, member price breakdown
+- **Created visualizations** including cost flow, code lookup tool, member price breakdown
   
-- Designed a multi page dashboard with built-in navigation, starting with a central homepage. 
+- **Designed a multi page dashboard** with built-in navigation, starting with a central homepage. 
 
 ## Skills:
 
-Microsoft Excel: pivot tables, conditional formatting, filtering
+Microsoft Excel: **pivot tables, conditional formatting, filtering**
 
 SQL: importing, aggregate function, joins, grouping
 
