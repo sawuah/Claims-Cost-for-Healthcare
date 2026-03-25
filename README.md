@@ -57,7 +57,7 @@ Tableau: data visualization, calculated fields, interactive filters, multi-page 
 ## Results and Business Recommendation
 ### Most expensive claim types
 
-#### - Inpatient and Emergency are the two most expensive claim types. 
+- Inpatient and Emergency are the two most expensive claim types. 
 
  - Impatient = $1,092,456
 
@@ -67,33 +67,33 @@ Tableau: data visualization, calculated fields, interactive filters, multi-page 
 
 - Outpatient holds 23.39 percent of claims but only holds $129,053 of the total paid by the insurance company. 
 
-Most expensive CPT and ICD codes
+### Most expensive CPT and ICD codes
 
-Top 10 most expensive CPT codes: 67890, 23456, 123, 12345, 45678, 99223, 56789, 54321, 34567, 567
+- Top 10 most expensive CPT codes: 67890, 23456, 123, 12345, 45678, 99223, 56789, 54321, 34567, 567
 
-Top 10 most expensive ICD codes: A12.3, B20, B20.1, I10, B99.4, E11.65, A01.1, C34.91, E11.9, J45.909 
+- Top 10 most expensive ICD codes: A12.3, B20, B20.1, I10, B99.4, E11.65, A01.1, C34.91, E11.9, J45.909 
 
-Most expensive members
+### Most expensive members
 
-Member ID: 6. 28, 32, 58, 82 
+- Member ID: 6. 28, 32, 58, 82 
 
-Top 5 members account for 11.6 percent of the total amount paid. 
+- Top 5 members account for 11.6 percent of the total amount paid. 
 
-Paid vs. Billed amounts
+### Paid vs. Billed amounts
 
-The insurance company pays 75% of the billed amount
+- The insurance company pays 75% of the billed amount
 
-By claim type:
+#### By claim type:
 
-Paid ratio Emergency: 77.38%
+- Paid ratio Emergency: 77.38%
 
-Paid ratio Impatient: 74.43%
+- Paid ratio Impatient: 74.43%
 
-Paid ratio Outpatient: 86.84%
+- Paid ratio Outpatient: 86.84%
 
-Paid ratio Pharmacy: 87.78%
+- Paid ratio Pharmacy: 87.78%
 
-Paid Ratio Lab: 91.46%
+- Paid Ratio Lab: 91.46%
 		
 ### Deliverables	
 ### Contact
