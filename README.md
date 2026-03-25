@@ -1,10 +1,8 @@
 # Claims Cost for Healthcare
 
 ## Executive Summary:
-Business Problem
-The solution answers
-Next Steps
-The number impact
+This project analyzes healthcare claims to highlight the key cost drivers behind an insurance company's financial losses. By analyzing claim types, CPT and ICD codes, members and providers, this analysis identifies where spending is concentrated. Using Excel, SQL, and Tableau, the data was cleaned, aggregated, and transformed into interactive dashboards that show high cost claim types, code level cost drivers, and member and provider insights. These findings help stakeholders make informed data driven decisions about resource allocation and cost improvement.  
+
 
 ## Business problem and questions: 
 A healthcare insurance company is rapidly losing money and wants to figure out why. The organization needs to understand healthcare spending across claim types, CPT and ICD codes, members, and providers. There is a lack of clarity that prevents data driven decision making and proper resource utilization. 
