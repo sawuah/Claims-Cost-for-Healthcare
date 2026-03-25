@@ -50,9 +50,9 @@ A healthcare insurance company is rapidly losing money and wants to figure out w
 
 Microsoft Excel: **pivot tables, conditional formatting, filtering**
 
-SQL: importing, aggregate function, joins, grouping
+SQL: **importing, aggregate function, joins, grouping**
 
-Tableau: data visualization, calculated fields, interactive filters, multi-page navigation
+Tableau: **data visualization, calculated fields, interactive filters, multi-page navigation** 
 
 ## Results and Business Recommendation
 ### Most expensive claim types
@@ -81,7 +81,7 @@ Tableau: data visualization, calculated fields, interactive filters, multi-page 
 
 ### Paid vs. Billed amounts
 
-- The insurance company pays 75% of the billed amount
+- The insurance company pays 75% of the billed amount. 
 
 #### By claim type:
 
@@ -95,7 +95,11 @@ Tableau: data visualization, calculated fields, interactive filters, multi-page 
 
 - Paid Ratio Lab: 91.46%
 		
-### Deliverables	
+#### Dashboards
+
+<img width="1356" height="757" alt="Screenshot 2026-03-24 222458" src="https://github.com/user-attachments/assets/120e1c82-c16d-46e7-ad8e-f62ff9d1fc7d" />
+
+
 ### Contact
 
 ### Data From Analytic Builder
