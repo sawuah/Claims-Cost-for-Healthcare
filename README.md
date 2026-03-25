@@ -55,17 +55,17 @@ SQL: importing, aggregate function, joins, grouping
 Tableau: data visualization, calculated fields, interactive filters, multi-page navigation
 
 ## Results and Business Recommendation
-###Most expensive claim types
+### Most expensive claim types
 
-####Inpatient and Emergency are the two most expensive claim types. 
+#### - Inpatient and Emergency are the two most expensive claim types. 
 
-###### Impatient = $1,092,456
+###### - Impatient = $1,092,456
 
-###### Emergency = $294,441
+###### - Emergency = $294,441
 
-###### Despite similar claim volume shares (around 20 percent), Impatient spending is nearly four times higher than Emergency. 
+###### - Despite similar claim volume shares (around 20 percent), Impatient spending is nearly four times higher than Emergency. 
 
-###### Outpatient holds 23.39 percent of claims but only holds $129,053 of the total paid by the insurance company. 
+###### - Outpatient holds 23.39 percent of claims but only holds $129,053 of the total paid by the insurance company. 
 
 Most expensive CPT and ICD codes
 
